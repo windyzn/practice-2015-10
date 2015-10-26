@@ -1,0 +1,2 @@
+Filesystems are how files are organized. Starting from the root directory, multiple directories can be made within the
+root. Filesystems resemble a tree trunk and branches.
