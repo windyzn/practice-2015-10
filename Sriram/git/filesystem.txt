@@ -1,0 +1,1 @@
+filesystem is like a tree with branches, where the root is your root directory and all the folders that you make are branching folders from the root.
