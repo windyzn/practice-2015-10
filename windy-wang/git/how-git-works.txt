@@ -1,0 +1,1 @@
+Git is a version control program that allows better management of files and code. Github can be used to collaborate with others.
