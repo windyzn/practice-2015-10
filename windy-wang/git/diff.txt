@@ -1,0 +1,9 @@
+diff --git a/windy-wang/git/aboutme.txt b/windy-wang/git/aboutme.txt
+index 8dd3ae8..1b9017e 100644
+--- a/windy-wang/git/aboutme.txt
++++ b/windy-wang/git/aboutme.txt
+@@ -1 +1 @@
+-Hi! My name is Windy Wang. I'm currently in my last year of undergrad studying physiology and nutrition. I'm working in a lab that studies diabetes. In my spare time, I enjoy baking, reading, playing tennis, and crocheting.
+\ No newline at end of file
++Hi! My name is Windy Wang. I'm currently studying physiology and nutrition. I'm working in a lab that studies diabetes. In my spare time, I enjoy baking, reading, playing tennis, and crocheting. I'm hope to learn R!
+\ No newline at end of file
