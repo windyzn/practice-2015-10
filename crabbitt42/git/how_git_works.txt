@@ -1,0 +1,1 @@
+Git tracks files as they're modified, what's modified, and when they were done so. These files are uploaded to a central server so that multiple users can make edits.
