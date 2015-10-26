@@ -3,3 +3,6 @@ It is essentially a version control for your files.
 We then push these files, via Git to Github to share it with the world.
 
 Hello World!
+
+
+Also, Git version control is awesome!
