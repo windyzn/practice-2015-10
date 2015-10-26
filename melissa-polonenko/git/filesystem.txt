@@ -1,0 +1,3 @@
+Filesystems
+
+Filesystems are a way that folders are organized within a repository. Many folders and subfolders can be created to organize various components of a project and different projects. For example, it is helpful to have one folder per participant in my thesis work, and then subfolders for each test completed, and the subfolders from there to indicate different analyses.
