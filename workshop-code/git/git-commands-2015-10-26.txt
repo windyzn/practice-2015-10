@@ -1,0 +1,70 @@
+ 1931  ls Desktop/
+ 1932  pwd
+ 1933  cd Desktop/
+ 1934  cd ~
+ 1935  pwd
+ 1936  cd Desktop/
+ 1937  ls 
+ 1938  ls -l
+ 1939  mkdir playing/
+ 1940  cd play
+ 1941  cd ..
+ 1942  cd playing/
+ 1943  pwd
+ 1944  git init
+ 1945  git status
+ 1946  ls
+ 1947  ls -a
+ 1948  touch bio.txt
+ 1949  ls
+ 1950  nano bio.txt
+ 1951  cat bio.txt 
+ 1952  git status
+ 1953  git add bio.txt 
+ 1954  git status
+ 1955  git commit -m "Initial commit"
+ 1956  git status
+ 1957  git log
+ 1958  git log --oneline
+ 1959  nano bio.txt
+ 1960  git status
+ 1961  git diff bio.txt
+ 1962  git diff
+ 1963  git status
+ 1964  git add bio.txt 
+ 1965  git status
+ 1966  git commit -m "Added random stuff to my bio.txt"
+ 1967  git log --oneline
+ 1968  git checkout HEAD~1 -- bio.txt
+ 1969  cat bio.txt 
+ 1970  git status
+ 1971  git reset HEAD bio.txt
+ 1972  git status
+ 1973  git diff bio.txt
+ 1974  git status
+ 1975  git checkout -- bio.txt
+ 1976  cat bio.txt 
+ 1977  git log --oneline
+ 1978  git checkout HEAD~3 -- bio.txt
+ 1979  cd ~/Desktop/
+ 1980  git clone https://github.com/lwjohnst86/practice-2015-10.git
+ 1981  cd practice-2015-10/
+ 1982  git log --oneline
+ 1983  mkdir luke-johnston/
+ 1984  cd luke-johnston/
+ 1985  mkdir git intror plotting wrangling rmarkdown
+ 1986  ls
+ 1987  cd git/
+ 1988  touch bio.txt
+ 1989  nano bio.txt
+ 1990  cat bio.txt 
+ 1991  git status
+ 1992  git add *
+ 1993  git status
+ 1994  git commit -m "Added Luke's bio"
+ 1995  git remote -v
+ 1996  git remote add upstream https://github.com/codeasmanuscript/practice-2015-10.git
+ 1997  git remote -v
+ 1998  git log --oneline
+ 1999  git push origin master
+
