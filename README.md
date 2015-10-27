@@ -22,3 +22,8 @@ Links to lessons:
 
 [Ticket out the door form](http://goo.gl/forms/TY6aXJF96V) to be completed at
 the end of each workshop session.
+
+Code from previous sessions:
+
+- The git code from Oct. 26th is in the directory `workshop-code/git`
+
