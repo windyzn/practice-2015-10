@@ -1,0 +1,1 @@
+Git tracks files as they're modified, what's modified, and when they were done so. These files are uploaded to a central server so that multiple users can make edits. This is important in case errors are introduced to the project, it's possible to go back and determine exactly when and by whom the error was mode, and any subsequent changes that may be affected by the error.
