@@ -1,0 +1,1 @@
+Git is a version control program that allows better management of files and code. Github can be used to collaborate with others. Version control and Git are important because it allows mistakes to be made. Using version control makes it easy for files to be recovered.
