@@ -1,0 +1,8 @@
+Git makes "screenshots" of the file that we are working on as we commit and add to the history.
+It is essentially a version control for your files. 
+We then push these files, via Git to Github to share it with the world.
+
+Hello World!
+
+
+Also, Git version control is awesome!
