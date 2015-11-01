@@ -1,0 +1,5 @@
+How git works:
+
+The way I currently understand Git, it that it is an amazing system to organize and keep track of work done my myself and any collaborators.
+
+Git and version control are important to keep track of my work, and to show the world what work I am doing. It is an easy way to organize and display my work.
